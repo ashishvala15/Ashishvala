@@ -18,7 +18,7 @@ export default function Footer() {
             </li>
           </ul>
           <ul className="flex cursor-pointer items-center space-x-5">
-            <li>
+            {/* <li>
               <a
                 href={siteMetadata.linkedin}
                 target="_blank"
@@ -27,13 +27,13 @@ export default function Footer() {
               >
                 <AiFillLinkedin className="sm:text-lg" />
               </a>
-            </li>
+            </li> */}
             <li>
               <a href={siteMetadata.github} target="_blank" rel="noreferrer" aria-label="github">
                 <FaGithub className="sm:text-lg" />
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href={siteMetadata.twitter} target="_blank" rel="noreferrer" aria-label="twitter">
                 <FaTwitter className="sm:text-lg" />
               </a>
@@ -47,7 +47,7 @@ export default function Footer() {
               <a href={siteMetadata.steam} target="_blank" rel="noreferrer" aria-label="steam">
                 <FaSteam className="sm:text-lg" />
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
