@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dalelarroder.com/sitemap.xml
+Sitemap: http://ashishvala.in/sitemap.xml

@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'ashishvala15@gmail.com',
   github: 'https://github.com/ashishvala15',
-  twitter: 'https://twitter.com',
+  twitter: 'https://twitter.com/AshishV69817188',
   facebook: 'https://facebook.com',
   linkedin: 'https://www.linkedin.com/',
   spotify: 'https://open.spotify.com',
