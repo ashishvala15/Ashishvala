@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://ashishvala.in/sitemap.xml
+Sitemap: https://ashishvala.in/sitemap.xml
