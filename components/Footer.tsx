@@ -1,7 +1,15 @@
 import siteMetadata from '@/data/siteMetadata'
 import Link from 'next/link'
 import { AiFillLinkedin } from 'react-icons/ai'
-import { FaGithub, FaSpotify, FaSteam, FaTwitter } from 'react-icons/fa'
+import {
+  FaEnvelope,
+  FaGithub,
+  FaMailBulk,
+  FaMailchimp,
+  FaSpotify,
+  FaSteam,
+  FaTwitter,
+} from 'react-icons/fa'
 import NowPlaying from './Spotify/NowPlaying'
 
 export default function Footer() {
@@ -33,16 +41,26 @@ export default function Footer() {
                 <FaGithub className="sm:text-lg" />
               </a>
             </li> */}
-            <li>
+            {/* <li>
               <a href={siteMetadata.twitter} target="_blank" rel="noreferrer" aria-label="twitter">
                 <FaTwitter className="sm:text-lg" />
               </a>
-            </li>
+            </li> */}
             {/* <li>
               <a href={siteMetadata.spotify} target="_blank" rel="noreferrer" aria-label="spotify">
                 <FaSpotify className="sm:text-lg" />
               </a>
             </li> */}
+            <li>
+              <a
+                href={'mailto:' + siteMetadata.email}
+                target="_blank"
+                rel="noreferrer"
+                aria-label="mail"
+              >
+                <FaEnvelope className="sm:text-lg" />
+              </a>
+            </li>
             <li>
               <a href={siteMetadata.steam} target="_blank" rel="noreferrer" aria-label="steam">
                 <FaSteam className="sm:text-lg" />
