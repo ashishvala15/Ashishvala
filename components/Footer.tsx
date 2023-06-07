@@ -28,26 +28,26 @@ export default function Footer() {
                 <AiFillLinkedin className="sm:text-lg" />
               </a>
             </li> */}
-            <li>
+            {/* <li>
               <a href={siteMetadata.github} target="_blank" rel="noreferrer" aria-label="github">
                 <FaGithub className="sm:text-lg" />
               </a>
-            </li>
-            {/* <li>
+            </li> */}
+            <li>
               <a href={siteMetadata.twitter} target="_blank" rel="noreferrer" aria-label="twitter">
                 <FaTwitter className="sm:text-lg" />
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href={siteMetadata.spotify} target="_blank" rel="noreferrer" aria-label="spotify">
                 <FaSpotify className="sm:text-lg" />
               </a>
-            </li>
+            </li> */}
             <li>
               <a href={siteMetadata.steam} target="_blank" rel="noreferrer" aria-label="steam">
                 <FaSteam className="sm:text-lg" />
               </a>
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>
