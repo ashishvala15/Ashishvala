@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'ashishvala',
   description: 'Senior Software Engineer',
   language: 'en-us',
-  theme: 'dark', // system, dark or light
+  theme: 'system', // system, dark or light
   siteUrl: 'https://ashishvala.in',
   siteRepo: 'https://github.com',
   siteLogo: '/static/images/logo.png',
