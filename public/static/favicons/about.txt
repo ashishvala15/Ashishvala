@@ -1,6 +1,6 @@
-This favicon was generated using the following font:
+This favicon was generated using the following graphics from Twitter Twemoji:
 
-- Font Title: Comic Neue
-- Font Author: Copyright 2014 The Comic Neue Project Authors (https://github.com/crozynski/comicneue)
-- Font Source: http://fonts.gstatic.com/s/comicneue/v8/4UaHrEJDsxBrF37olUeDx63j5pN1MwI.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
+- Graphics Title: 1f453.svg
+- Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
+- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f453.svg
+- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
